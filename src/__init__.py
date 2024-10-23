@@ -1,1 +1,1 @@
-from src.ryocore import *
+from src.main import *

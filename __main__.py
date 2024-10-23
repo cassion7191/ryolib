@@ -1,3 +1,3 @@
-from api import *
+from __init__ import *
 
 main()
